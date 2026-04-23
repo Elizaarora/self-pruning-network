@@ -1,5 +1,5 @@
 # ============================================================
-# SELF-PRUNING NETWORK (FINAL - STRONG PRUNING VERSION)
+# SELF-PRUNING NETWORK 
 # ============================================================
 
 import torch
